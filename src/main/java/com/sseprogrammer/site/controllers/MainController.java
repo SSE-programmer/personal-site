@@ -1,4 +1,4 @@
-package com.sseprogrammer.blog.controllers;
+package com.sseprogrammer.site.controllers;
 
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;

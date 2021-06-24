@@ -1,13 +1,13 @@
-package com.sseprogrammer.blog;
+package com.sseprogrammer.site;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class BlogApplication {
+public class SiteApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(BlogApplication.class, args);
+		SpringApplication.run(SiteApplication.class, args);
 	}
 
 }
